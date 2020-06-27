@@ -3,6 +3,11 @@ This repository contains the PowerPoint presentation and the code samples used i
 
 The source code in the repository is for the second demo of the session. It's based on Microsoft official learning module ["Build a containerized web application with Docker"](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/). You can access the original code [here](https://github.com/MicrosoftDocs/mslearn-hotel-reservation-system). We upgraded the original code to .NET Core 3.1 and presented a more clean Docker image using the "multi-stage builds" technique in the Dockerfile.
 
+## Meetup's recording
+---
+You can [watch](https://youtu.be/x1rqf8mHXfE) the recording for the meetup where this repository was used.
+
+
 ## How to execute Demo 2
 ---
 1.	Use the source code found [src/mslearn-hotel-reservation-system](src/mslearn-hotel-reservation-system)
